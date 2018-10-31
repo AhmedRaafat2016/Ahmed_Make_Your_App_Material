@@ -1,9 +1,3 @@
-
-[![Build Status](https://travis-ci.org/victoraldir/MakeYourAppMaterial.svg?branch=master)](https://travis-ci.org/victoraldir/MakeYourAppMaterial)
-
-# MakeYourAppMaterial
-I redesigned an app to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app.
-
 # Screenshots
 
 <img width="40%" src="https://cloud.githubusercontent.com/assets/881964/23443722/a0935f6c-fe28-11e6-9a76-31e53648888c.png" />
